@@ -1,9 +1,9 @@
-# stats220
+# Stats220
 *A space for all things **stats 220** related*
 
 ### My Stats 220 goals :seedling:
 * Have a general understanding of a variety of stats-related technologies
-* Be able to handle data: from collection, cleaning, all the way to the presentation of data insights
+* Be able to handle data: from collection and cleaning, all the way to the presentation of data insights
 
 ### Some cool data, and adjacent, websites
 1. [New Zealand's National Statistics Office](https://www.stats.govt.nz/)
